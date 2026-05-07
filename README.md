@@ -53,10 +53,8 @@ root@github:~$ ls ./badges/
 ```bash
 root@github:~$ ./run_stats.sh
 ```
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DefinitelyNotVictor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=06FF00&icon_color=06FF00" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefinitelyNotVictor&layout=compact&theme=github_dark&hide_border=true&title_color=06FF00" />
+  <img src="https://streak-stats.demolab.com?user=DefinitelyNotVictor&theme=github-dark&hide_border=true&ring=06FF00&fire=06FF00&currStreakLabel=06FF00&sideLabels=06FF00&sideNums=06FF00" />
 </div>
 
 ```bash
